@@ -1,13 +1,12 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { Layers, ArrowUpRight } from "lucide-react"; // Added icons for visual flair
+import { Layers, ArrowUpRight } from "lucide-react"; 
 import SectionHeading from "../ui/SectionHeading";
 import { skillGroups } from "../../data/skills";
 
 export default function About() {
   return (
     <section id="about" className="py-24 md:py-32 bg-white dark:bg-ink-950 relative overflow-hidden">
-      {/* Background decorative glow (Optional, adds depth) */}
       <div className="absolute top-0 right-0 w-96 h-96 bg-signal-400/5 dark:bg-signal-500/5 rounded-full blur-3xl pointer-events-none" />
 
       <div className="max-w-content mx-auto px-5 sm:px-8 relative z-10">

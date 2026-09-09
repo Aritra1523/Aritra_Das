@@ -5,26 +5,16 @@ export const journey = [
     detail:
       "Studied at Bengal Institute of Technology, building the fundamentals in data structures, algorithms, and software systems.",
   },
-  {
-    year: "2022",
-    title: "Learning Web Development",
-    detail:
-      "Started with HTML, CSS, and JavaScript, then moved into React to understand how modern interfaces are built.",
-  },
-  {
-    year: "2023",
-    title: "Building Real Projects",
-    detail:
-      "Shipped a personal portfolio and a salon booking site, moving from tutorials to independent problem-solving.",
-  },
+  
+  
   {
     year: "2024",
-    title: "Full Stack Development",
+    title: "Learning Full Stack Development",
     detail:
       "Added Node.js, Express, and MongoDB to the toolkit — building MediFinder and a doctor appointment platform end to end.",
   },
   {
-    year: "2024 – 2025",
+    year: "2024 – Present",
     title: "Exploring AI & Generative AI",
     detail:
       "Learning how to integrate AI-driven features into web applications, from API-based tools to smarter UX.",
